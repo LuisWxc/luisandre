@@ -22,5 +22,3 @@
     <a href="https://www.linkedin.com/in/luis-andre-furlan-baldo-566512271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/luisandre/luisandre/blob/output/github-contribution-grid-snake.svg)
